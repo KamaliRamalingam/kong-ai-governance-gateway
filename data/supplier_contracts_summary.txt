@@ -1,0 +1,39 @@
+Volvo Cars Active Supplier Contracts — 2024
+Classification: INTERNAL COMMERCIAL — Admin Access Required
+
+=== Active Supply Agreements ===
+Supplier: AutoParts Nordic AB
+  Category: Brake & suspension components
+  Annual value: SEK 12,400,000
+  Contract expires: 2025-06-30
+  Performance rating: 4.6/5.0 — Meets all KPIs
+
+Supplier: Scandinavia Tires Ltd
+  Category: OEM tire supply (all models)
+  Annual value: SEK 8,900,000
+  Contract expires: 2024-12-31 ← RENEWAL DUE
+  Performance rating: 4.2/5.0 — Minor delays Q4 2023
+
+Supplier: ElectroPower SE
+  Category: EV battery cells & HV components
+  Annual value: SEK 31,200,000
+  Contract expires: 2026-03-15
+  Performance rating: 4.8/5.0 — Strategic partner
+
+Supplier: FluidTech GmbH
+  Category: Hydraulic & transmission fluids
+  Annual value: SEK 3,600,000
+  Contract expires: 2025-09-01
+  Performance rating: 4.4/5.0 — Consistent supply
+
+=== Aggregate Supplier Performance ===
+On-time delivery rate (all suppliers): 94.3%
+Quality rejection rate: 0.8% (target: <1.5%)
+Cost savings vs spot market: 12.4%
+
+=== Action Items ===
+- Scandinavia Tires Ltd renewal negotiations: Start Q3 2024
+- ElectroPower SE volume renegotiation: June 2024
+- New EV coolant supplier RFQ: Issue by May 15
+
+Prepared by: Procurement Team | Last updated: 2024-03-20

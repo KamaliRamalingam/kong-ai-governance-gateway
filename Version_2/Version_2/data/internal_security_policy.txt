@@ -1,0 +1,6 @@
+CONFIDENTIAL - INTERNAL USE ONLY
+
+This document contains restricted information regarding upcoming vehicle architectures and internal security protocols. 
+Under no circumstances should this information be shared outside the organization.
+Handling of personal data must strictly follow GDPR and internal policies.
+Employees found violating these rules will face disciplinary action.

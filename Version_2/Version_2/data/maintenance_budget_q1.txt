@@ -1,0 +1,33 @@
+Volvo Cars Fleet Maintenance Budget — Q1 2024
+Classification: INTERNAL FINANCE — Admin Access Required
+Approved by: VP Operations
+
+=== Departmental Allocations ===
+Manufacturing Fleet:        SEK 1,800,000
+Executive Fleet:            SEK   450,000
+Field Operations:           SEK 1,200,000
+Test & Development Fleet:   SEK   750,000
+TOTAL Q1 APPROVED:          SEK 4,200,000
+
+=== Budget Category Split ===
+Routine preventive maintenance:   60%  (SEK 2,520,000)
+Emergency & unplanned repairs:    15%  (SEK   630,000)
+Parts & consumables inventory:    20%  (SEK   840,000)
+External contractor services:      5%  (SEK   210,000)
+
+=== Approved Vendor Tiers ===
+Tier 1 (Primary): Volvo Internal Service Centers (all regions)
+Tier 2 (Secondary): Authorized Volvo Dealer Network
+Tier 3 (Emergency): Pre-approved third-party workshops (list in Appendix B)
+
+=== Q1 Budget Performance ===
+Spend to date (Mar 31): SEK 4,334,560
+Variance: +3.2% over budget (within 5% tolerance threshold)
+Main overspend driver: Increased EV battery component costs
+
+=== Upcoming Decisions ===
+- Q2 budget increase request submitted: +8% for EV-specific tools
+- New predictive maintenance system ROI review: April 15 meeting
+- Contractor contract renewals due: May 2024
+
+Next review: Q2 2024 planning session — April 15, Conference Room 4B

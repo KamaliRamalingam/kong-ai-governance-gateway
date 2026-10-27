@@ -1,0 +1,50 @@
+Volvo Cars R&D Project Status Report — 2024
+Classification: INTERNAL STRATEGIC — Admin Access Required
+
+=== Active R&D Projects ===
+
+PROJECT AURORA
+  Description: Next-generation EV battery management system (BMS 3.0)
+  Status: Phase 2 — Integration testing
+  Budget: SEK 45,000,000 (approved)
+  Target launch: Q3 2025
+  Key milestone next: Full vehicle integration test (May 2024)
+  Risk level: MEDIUM — Supply chain dependency for test cells
+
+PROJECT BRIDGE
+  Description: Over-the-Air (OTA) software update infrastructure v2
+  Status: Production rollout (40% fleet coverage achieved)
+  Budget: SEK 18,000,000 (approved)
+  Target completion: Q2 2024
+  Key milestone next: 80% fleet coverage by June 30
+  Risk level: LOW — On schedule
+
+PROJECT ATLAS
+  Description: Autonomous parking feature expansion (SAE Level 3)
+  Status: Regulatory review — UNECE WP.29 submission
+  Budget: SEK 62,000,000 (approved)
+  Target launch: Q4 2024
+  Key milestone next: Approval expected August 2024
+  Risk level: HIGH — Regulatory timeline uncertainty
+
+CONNECTED SAFETY 2.0
+  Description: Enhanced ADAS sensor fusion and V2X communication
+  Status: Design phase — Architecture finalized
+  Budget: SEK 29,000,000 (approved)
+  Target launch: Q1 2025
+  Key milestone next: Prototype build start (June 2024)
+  Risk level: LOW — Strong team, clear requirements
+
+=== Resource Summary ===
+Total R&D headcount across all projects: 340 FTE
+External university partnerships: 3 active (KTH, Chalmers, CTH)
+Patent applications filed Q1 2024: 12
+Patents granted Q1 2024: 4
+
+=== Strategic Notes ===
+EV transition is the top investment priority (55% of R&D budget)
+Regulatory compliance projects: 25% of budget
+Safety system enhancements: 20% of budget
+
+Report prepared by: R&D Program Management Office
+Next update: End of Q2 2024

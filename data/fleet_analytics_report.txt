@@ -1,0 +1,38 @@
+Volvo Fleet Analytics Report — Q1 2024
+Classification: INTERNAL — Admin Access Required
+Generated: 2024-03-31
+
+=== Fleet Overview ===
+Total active vehicles: 2,847
+Average fleet age: 3.2 years
+Fleet utilization rate: 78.4%
+Vehicles due for service (next 30 days): 234
+Unscheduled breakdowns Q1: 18 (0.6% of fleet)
+
+=== Maintenance Category Breakdown ===
+1. Oil & Filter Change:    38% of all work orders
+2. Tire Services:          22%
+3. Battery & Electrical:   18%
+4. Brake Systems:          12%
+5. Cooling System:          5%
+6. Other/Miscellaneous:     5%
+
+=== Cost Summary ===
+Q1 total maintenance cost: SEK 4,200,000
+Average cost per vehicle/month: SEK 1,475
+Budget variance vs Q4 2023: +3.2% (within approved tolerance)
+Top cost driver: EV battery servicing (+18% YoY)
+
+=== Vehicle Health Scores (Fleet Average) ===
+Engine health index: 8.4 / 10
+Electrical systems: 7.9 / 10
+Safety systems: 9.1 / 10
+Overall fleet health: 8.4 / 10
+
+=== Regional Distribution ===
+Gothenburg HQ: 1,203 vehicles
+Stockholm office: 687 vehicles
+Malmo hub: 412 vehicles
+Field operations: 545 vehicles
+
+Next quarterly review: Q2 2024 (scheduled April 30)

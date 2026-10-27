@@ -1,0 +1,92 @@
+_format_version: "3.0"
+
+services:
+  - name: ai-service
+    url: https://openrouter.ai/api/v1/chat/completions
+    routes:
+      - name: ai-route
+        paths:
+          - /ai
+        methods:
+          - POST
+    plugins:
+      - name: rate-limiting
+        config:
+          minute: 60
+          policy: local
+
+      - name: ai-sanitizer
+        config:
+          host: ai-pii
+          port: 8080
+
+      - name: request-transformer
+        config:
+          add:
+            headers:
+              - "Authorization:Bearer REDACTED_API_KEY"
+
+      # ── Volvo Enterprise AI Prompt Guard ─────────────────────────────────────
+      # Blocks prompt injection, jailbreaks, and sensitive intent queries.
+      - name: ai-prompt-guard
+        config:
+          allow_all_conversation_history: false
+          deny_patterns:
+            # Jailbreak / prompt injection
+            - "ignore previous instructions"
+            - "ignore all instructions"
+            - "you are now DAN"
+            - "DAN mode"
+            - "jailbreak"
+            - "system prompt"
+            - "do anything now"
+            - "no restrictions"
+            - "bypass safety"
+            - "override policy"
+            - "disable filter"
+
+            # Sensitive intent queries (Volvo DLP Block policy)
+            - "list all customers"
+            - "vehicle owner details"
+            - "location history"
+            - "track driver"
+            - "monitor user behavior"
+            - "real-time vehicle tracking"
+            - "fetch internal endpoint"
+
+            # Credential / secret leakage
+            - "api_key"
+            - "secret_key"
+            - "access_token"
+            - "internal_secret"
+            - "internal endpoint"
+
+      - name: ai-semantic-cache
+        config:
+          strategy: redis
+          redis:
+            host: redis
+            port: 6379
+          embeddings_provider: openai
+          embeddings_model: text-embedding-3-small
+          embeddings_auth:
+            header_name: Authorization
+            header_value: Bearer YOUR_OPENAI_API_KEY
+          similarity_threshold: 0.95
+          cache_ttl: 3600
+
+      - name: proxy-cache
+        config:
+          strategy: memory
+          request_method:
+            - POST
+          response_code:
+            - 200
+          content_type:
+            - application/json
+          cache_ttl: 300
+          storage_ttl: 300
+          cache_control: true
+          vary_headers:
+            - x-user-id
+            - x-bypass-cache

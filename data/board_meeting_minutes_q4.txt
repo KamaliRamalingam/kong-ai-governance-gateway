@@ -1,0 +1,27 @@
+VOLVO GROUP BOARD MEETING — Q4 2024 MINUTES
+CLASSIFICATION: STRICTLY CONFIDENTIAL — ADMIN ACCESS ONLY
+================================================================
+
+DATE: 2024-11-28  |  LOCATION: Gothenburg HQ, Room 4A
+
+ATTENDEES: A. Eriksson (CEO), M. Lindqvist (CFO), J. Bergström (CTO),
+           Board Members: H. Carlsson, E. Magnusson, P. Thorén
+
+AGENDA ITEMS:
+
+1. ACQUISITION TARGET — Project Eagle
+   Volvo evaluating acquisition of ElectroFleet AB (est. value SEK 2.1B).
+   Due diligence phase begins Q1 2025. Strict NDA in force.
+
+2. CYBERSECURITY INCIDENT — October 2024
+   Attempted breach on fleet telemetry system detected Oct 12.
+   Contained within 4 hours. No data exfiltrated. Kong AI Gateway
+   flagged anomalous API traffic — credited with early detection.
+
+3. Q4 FINANCIAL OUTLOOK
+   Revenue forecast: SEK 42.3B (+7% YoY). EBITDA margin: 11.2%.
+
+NEXT MEETING: 2025-02-20
+
+CLASSIFICATION REMINDER: These minutes are restricted to Administrator
+roles only. Do not forward or print without CISO approval.

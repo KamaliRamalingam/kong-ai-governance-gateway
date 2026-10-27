@@ -1,0 +1,4 @@
+service_id,vehicle_id,service_type,date
+S001,V1001,Oil Change,2023-05-10
+S002,V1002,Battery Inspection,2023-08-15
+S003,V1001,Tire Rotation,2024-01-20
