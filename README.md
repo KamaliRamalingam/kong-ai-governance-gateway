@@ -1,4 +1,4 @@
-> **🏆 Top 5 finalist · Kong AI Governance Hackathon · April 2026 · Team of six**
+> **Kong AI Governance Hackathon · April 2026 · Team of six · 🏆 Top 5 finalist**
 >
 > Proof of concept for Volvo Cars' "TAPIR" (Securing AI Systems) initiative: an AI
 > gateway that stops sensitive data from reaching public LLM APIs.
