@@ -95,7 +95,7 @@ This project is divided into several interconnected layers:
 ### 📁 Documentation & Data
 - **`data/` (folder)**: Contains mock dataset files (CSV, TXT) such as employee records, vehicle specs, and security policies for the MCP server to query.
 - **`dlp_test_cases.md`**: A collection of prompts used to test the `ai-prompt-guard` configurations (PII, IP leaks, Prompt Injections).
-- **`ARCHITECTURE_FLOW.md`**: Detailed flow document explaining the architecture pipeline in depth.
+- **`docs/ARCHITECTURE_FLOW.md`**: Detailed flow document explaining the architecture pipeline in depth.
 
 ---
 
