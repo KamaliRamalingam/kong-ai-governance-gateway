@@ -1,14 +1,14 @@
-> **Kong AI Governance Hackathon · April 2026 · Team of six · 🏆 Top 5 finalist**
->
-> Proof of concept for Volvo Cars' "TAPIR" (Securing AI Systems) initiative: an AI
-> gateway that stops sensitive data from reaching public LLM APIs.
->
-> **My contribution:** I worked on the gateway's features with the team using
-> AI-assisted development, from the DLP and governance rules to testing the
-> security scenarios for the demo.
->
-> The files in `data/` are **fictional test data** (fake names, 555 phone numbers,
-> example.com emails and mock documents) created to demonstrate the DLP filters.
+**Kong AI Governance Hackathon · April 2026 · Team of six · 🏆 Top 5 finalist**
+
+Proof of concept for Volvo Cars' "TAPIR" (Securing AI Systems) initiative: an AI
+gateway that stops sensitive data from reaching public LLM APIs.
+
+**My contribution:** I worked on the gateway's features with the team using
+AI-assisted development, from the DLP and governance rules to testing the
+security scenarios for the demo.
+
+The files in `data/` are **fictional test data** (fake names, 555 phone numbers,
+example.com emails and mock documents) created to demonstrate the DLP filters.
 
 ---
 
